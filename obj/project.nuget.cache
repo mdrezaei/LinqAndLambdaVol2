@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpLbdYDzFFNHNInmRi9FEyquk5OhjDs9g8mKRJIB9YL8DeHNGbo+QyGbd0x5adu1Pcif1IUslIhbG0VdKenR+Q==",
+  "success": true,
+  "projectFilePath": "G:\\soft were\\Microsoft Visual Studio\\project2019c#\\TopLearn\\2\\ConsoleApp3_LinqAndLambdaVol2\\ConsoleApp3_LinqAndLambdaVol2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
